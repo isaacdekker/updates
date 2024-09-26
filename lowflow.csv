@@ -1,0 +1,14 @@
+Catchment,ID,Harvest_pct,Harvest_type,Riparian,Lowflow_pct,Year_postharvest,Author,Year,Metric
+HJ Andrews 1,,100,Clearcut,,-25,30,Perry,2017,mean daily flow
+HJ Andrews 3,,25,Patch cut,,-20,25,Segura,2020,mean daily flow
+HJ Andrews 10,,100,Clearcut,,-50,36,Perry,2017,mean daily flow
+HJ Andrews 7,,100,Shelterwood,,-30,32,Perry,2018,mean daily flow
+HJ Andrews 6,,100,Clearcut,,-17,33,Perry,2019,mean daily flow
+Deer Creek,,25,Clearcut,,-14,51,Segura,2020,mean daily flow
+Needle Branch,,100,Clearcut,Buffer,-50,53,Segura,2020,mean daily flow
+Coyote Creek 3,,100,Clearcut,,-50,35,Perry,2017,mean daily flow
+Caspar Creek SF,,67,Clearcut,,-27,10,Keppeler,1990,daily flow
+Camp Creek,,27,Clearcut,,0,18,Moore,2020,7 day minimum flow
+241 Creek,,47,Clearcut,Buffer,-16,10,Gronsdahl,2019,Low flow yield
+Dennis Creek,,52,Clearcut,Buffer,-43,17,Gronsdahl,2019,Low flow yield
+242 Creek,,50,Clearcut,,0,10,Winkler,2015,Low flow yield
